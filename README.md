@@ -1,3 +1,6 @@
+## 🚀 Live Demo
+👉 [Click here to view the app](https://librarymanagementsystem-jkzxybaxxsbkkunnpxkmhh.streamlit.app)
+
 # 📚 Library Management System
 
 A database-driven Library Management System built with **Python, SQLite, and Streamlit**.
